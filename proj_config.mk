@@ -21,5 +21,5 @@ CONFIG_FREERTOS_TICKLESS_MODE:=0
 CONFIG_WIFI:=0
 endif
 
-LOG_ENABLED_COMPONENTS:= blog_testc hosal demo_gpio
+LOG_ENABLED_COMPONENTS:= blog_testc hosal myblink
 

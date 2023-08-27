@@ -3,7 +3,7 @@
 # project subdirectory.
 #
 
-PROJECT_NAME := demo_gpio
+PROJECT_NAME := myblink
 PROJECT_PATH := $(abspath .)
 PROJECT_BOARD := evb
 export PROJECT_PATH PROJECT_BOARD
