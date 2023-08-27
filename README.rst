@@ -2,11 +2,11 @@ README
 =========
 My Hello World Blink with BL702.
 
-``
+```
 git clone https://github.com/Sebidev/blink_bl702
 cd blink_bl702
 export BL60X_SDK_PATH=$(pwd)
-``
+```
 
 Bouffalolab bl_iot_sdk. Support BL602 Wi-Fi/BLE Combo RISC-V based Chip and BL70X Zigbee/BLE RISC-V based Chip.
 
