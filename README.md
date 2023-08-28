@@ -2,8 +2,6 @@ README
 =========
 My Hello World Blink with BL702.
 
-![](https://github.com/Sebidev/blink_bl702/blob/main/assets/VID_20230828_145030.gif)
-
 ```
 git clone https://github.com/bouffalolab/bl_iot_sdk
 cd bl_iot_sdk
@@ -13,6 +11,8 @@ cd blink_bl702
 ./genromap
 ```
 Flash bl702 with the flash tool under bl_iot_sdk/tools/flash_tool
+
+![](https://github.com/Sebidev/blink_bl702/blob/main/assets/VID_20230828_145030.gif)
 
 My Board: https://www.aliexpress.us/item/3256805663557253.html
 
