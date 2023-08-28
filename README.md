@@ -1,6 +1,7 @@
 README
 =========
 My Hello World Blink with BL702.
+
 ![](https://github.com/Sebidev/blink_bl702/blob/main/assets/VID_20230828_145030.gif)
 
 ```
