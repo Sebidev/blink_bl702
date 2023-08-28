@@ -13,7 +13,7 @@ cd blink_bl702
 Flash bl702 with the flash tool under bl_iot_sdk/tools/flash_tool
 
 My Board: https://www.aliexpress.us/item/3256805663557253.html
-![](https://github.com/Sebidev/blink_bl702/assets/VID_20230828_145030.gif)
+![](https://github.com/Sebidev/blink_bl702/blob/main/assets/VID_20230828_145030.gif)
 
 Bouffalolab bl_iot_sdk. Support BL602 Wi-Fi/BLE Combo RISC-V based Chip and BL70X Zigbee/BLE RISC-V based Chip.
 
